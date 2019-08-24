@@ -3,4 +3,10 @@ for macOS, Linux, and Microsoft Windows with support
 for plug-ins written in Node.js, and embedded Git Control,
 developed by GitHub.
 Atom is a desktop application built using web technologies.
-This line is newly added in branch-1
+Process of installing packages in Atom
+There are two ways to install packages for Atom,
+Enter apm install package-name on your terminal.
+Obviously, the Atom package manager, apm ,
+must be installed (you can enter apm to verify installation).
+Open Atom, go to edit > preferences > install
+ and search for the package you wish to install.
